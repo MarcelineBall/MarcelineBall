@@ -1,11 +1,13 @@
-### Hey there, I'm Marceline (she/they)!
+### Hey there, I'm Marceline!
 
 I'm a Colorado based software developer, with a focus on web development
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/marceline-ball/)!
 
-<img align="left" width="45%" alt="User Stats" src="https://github-readme-stats.vercel.app/api?username=MarcelineBall&theme=tokyonight&hide=stars_private=true">
-<img align="right" width="45%" alt="Top Used Technologies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelineBall&show_icons=true&layout=compact&theme=tokyonight">
+<img align="left" display="block" width="50%" alt="User Stats" src="https://github-readme-stats.vercel.app/api?username=MarcelineBall&theme=tokyonight&hide=stars_private=true">
+<img align="left" display="block" width="50%" alt="Top Used Technologies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelineBall&show_icons=true&layout=compact&theme=tokyonight">
+
+
 
 ## Technologies: 
 <p align="center">
